@@ -2,6 +2,8 @@
  Realtime web chat application with rooms that allows (and lists) multiple users. The app was designed for smooth communication among brands and their influencers. 
  
  Having all the influencers and team members of the brands available in realtime would help in relying messages, rolling out content and sharing ideas for campaigns.
+ 
+ **Check out the website here** : https://yabber-chat-app.herokuapp.com/
 
 
 ![Homepage or Join page of Yabber App](https://raw.githubusercontent.com/zahreafranklin/yabber-chat-app/master/screenshots/Joinpage.png)
